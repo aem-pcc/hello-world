@@ -1,5 +1,6 @@
 /**
  * A simple program that prints "Hello, world!" and today's date/time.
+ * Now with my name in the header.
  * Author: Amy Miles
  * Version: 2022.04.30
  */
