@@ -1,3 +1,9 @@
+/**
+ * A simple program that prints "Hello, world!" and today's date/time.
+ * Author: Amy Miles
+ * Version: 2022.04.30
+ */
+
 package edu.pcc.cis.helloworld;
 
 import java.util.Date;
